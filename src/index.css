@@ -11,3 +11,53 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.rock{
+ background-color: gray;
+}
+.water{
+  background-color: blue;
+}
+.electric{
+  background-color: yellow;
+}
+.grass{
+  background-color: green;
+  
+}
+.poison{
+  background-color: purple;
+}
+.psychic{
+  background-color: salmon;
+}
+.fire{
+  background-color: red;
+}
+.ground{
+  background-color: saddlebrown;
+}
+.ice{
+  background-color: cyan;
+}
+.fighting{
+  background-color: orange;
+}
+.ghost{
+  background-color: orchid;
+}
+.dragon{
+  background-color: lime;
+}
+.fairy{
+  background-color: pink;
+}
+.flying{
+  background-color: lightseagreen;
+}
+.bug{
+  background-color: greenyellow;
+}
+.normal{
+  background-color: lightslategray;
+}
